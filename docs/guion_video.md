@@ -14,5 +14,3 @@ y los filtros en “Todas”.
 | 3:20–4:05 | App · Logística y satisfacción | **Resultado relevante:** “Hasta la fecha estimada el CSAT se mantiene sobre 4; con 4 a 7 días de retraso cae a ≈ 2 y con más de una semana casi 8 de cada 10 reseñas son negativas. Río de Janeiro concentra el 23 % de los pedidos retrasados con solo el 13 % de los pedidos. **Decisión:** priorizar la renegociación logística en RJ y el Nordeste, y activar contacto proactivo y cupones cuando un pedido supera la fecha estimada.” | Explicación de resultado y decisión |
 | 4:05–4:30 | `docs/uso_ia.md` | “La IA me ayudó a explicar por qué el % a tiempo daba 91,9 % en pandas y 93,2 % en SQL: la fecha estimada no tiene hora. Lo validé calculando ambas versiones: la diferencia son exactamente 1 291 pedidos entregados el mismo día estimado.” | Uso de IA, qué se validó |
 
-Consejos: grabar a 1080p con la ventana del navegador maximizada; ampliar el zoom de Adminer al
-125 %; ensayar una vez con cronómetro. Si se excede de 5 min, acortar el bloque de Adminer.
