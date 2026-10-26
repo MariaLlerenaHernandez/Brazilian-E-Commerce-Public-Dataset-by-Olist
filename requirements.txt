@@ -1,0 +1,7 @@
+# Probado con Python 3.11 - 3.13
+streamlit==1.45.1
+plotly==5.24.1
+pandas>=2.2,<3.1
+psycopg2-binary>=2.9.10
+python-dotenv>=1.0
+tabulate>=0.9          # tablas markdown del perfilado (etl/01_perfilado.py)
